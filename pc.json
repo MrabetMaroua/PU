@@ -3,13 +3,13 @@
     "id": 1,
     "nom": "Asus Eee PC 1215B",
     "prix": "1200 DT",
-    "image": "http://img.bfmtv.com/c/1256/708/f12/0f0cdcc5972cfe75e7a69a9173617.jpg"
+    "url": "http://img.bfmtv.com/c/1256/708/f12/0f0cdcc5972cfe75e7a69a9173617.jpg"
    },
    {
     "id": 2,
-    "nom": "Asus Eee PC 1215B",
-    "prix": "1200 DT",
-    "image": "http://img.bfmtv.com/c/1256/708/f12/0f0cdcc5972cfe75e7a69a9173617.jpg"
+    "nom": "Asus ROGGL553VD I5 ",
+    "prix": "2149 DT",
+    "url": "https://www.weable.co.za/media/product/086/asus-rog-gl553vd-i5-7300hq-15-gl553vd-dm049t-915.jpg"
    }
 ]
 
