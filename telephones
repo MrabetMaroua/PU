@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nom": "Smartphone AXON H419",
+    "prix": "119 DT",
+    "description": "La plate-forme AMD Brazos fine et légère avec unité",
+    "url": "http://www.mytek.tn/40269-product_category/smartphone-axon-h419-.jpg"
+   },
+   {
+    "id": 2,
+    "nom": "Smartphone VERSUS V400 3G",
+    "prix": "139 DT",
+    "description": "Windows 7 La plate-forme AMD Brazos fine et légère avec unité",
+    "url": "http://www.mytek.tn/48730-product_category/smartphone-versus-v400-3g-noir.jpg"
+   },
+  {
+    "id": 3,
+    "nom": "Smartphone LEAGOO Z1C 3G  ",
+    "prix": "149 DT",
+    "description": "Windows 7 La plate-forme AMD Brazos fine et légère avec unité",
+    "url": "http://www.mytek.tn/45207-product_category/smartphone-leagoo-z1c-3g-rose.jpg"
+   },
+  {
+    "id":4,
+    "nom": "Smartphone SERVICOM Mini   ",
+    "prix": "149 DT",
+    "description": "Windows 7 La plate-forme AMD Brazos fine et légère avec unité",
+    "url": "http://www.mytek.tn/49001-product_category/smartphone-servicom-4g-mini-double-sim-rose.jpg"
+   },
+  {
+    "id": 5,
+    "nom": "Galaxy C7 Pro",
+    "prix": "840 DT",
+    "description": "Windows 7 La plate-forme AMD Brazos fine et légère avec unité",
+    "url": "http://images.samsung.com/is/image/samsung/in-galaxy-c7-pro-c710f-sm-c701fnbdins-61891142?$PD_GALLERY_JPG$"
+   },
+  {
+    "id": 6,
+    "nom": "LG G6 ",
+    "prix": "1158 DT",
+    "description": "Windows 7 La plate-forme AMD Brazos fine et légère avec unité",
+    "url": "http://www.lg.com/lk/images/mobile-phones/md05851337/G6-image350-n.jpg"
+   }
+]
