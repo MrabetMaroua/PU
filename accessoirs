@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nom": "Coque Silicone EverMiracle",
+    "prix": " 1,000 DT",
+    "url": "http://www.mytek.tn/20609-product_category/coque-silicone-evermiracle-tunsie.jpg"
+   },
+   {
+    "id": 2,
+    "nom": "Coque BRILLANT GALAXY S4",
+    "prix": "2,000",
+    "url": "http://www.mytek.tn/22783-product_category/coqu-brillant-i9500-galaxy-s4-juke-tunsie.jpg"
+   },
+  {
+    "id": 3,
+    "nom": " DESIGN Pour iPhone 5/5S/6    ",
+    "prix": "3,500 DT",
+    "url": "http://www.mytek.tn/28414-product_category/multi-modele-et-design-pour-iphone-5-5s-6-tunsie.jpg"
+   },
+  {
+    "id":4,
+    "nom": "COQUE BRILLANT GALAXY ",
+    "prix": "2,000 DT",
+    "url": "http://www.mytek.tn/22735-product_category/coque-brillant-s7562-galaxy-s-duos-juke-tunsie.jpg"
+   },
+  {
+    "id": 5,
+    "nom": "ÉCOUTEUR SAMSUNG",
+    "prix": "4,500 DT",
+    "url": "http://www.mytek.tn/32410-product_category/ecouteur-samsung-tunsie.jpg"
+   },
+  {
+    "id": 6,
+    "nom": "Chargeur MOTOROLA HAMA",
+    "prix": "4,500 DT",
+   "url": "http://www.mytek.tn/23835-product_category/chargeur-motorola-hama-tunsie.jpg"
+   }
+]
