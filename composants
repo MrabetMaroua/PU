@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nom": "Sticker Arabisée pour clavier",
+    "prix": "0,600 DT",
+    "url": "http://www.mytek.tn/36171-product_category/sticker-arabisee-pour-clavier-.jpg"
+   },
+   {
+    "id": 2,
+    "nom": "Tapis de Souris Simple - Noir",
+    "prix": "1,000",
+    "url": "http://www.mytek.tn/46371-product_category/tapis-microsoft-pour-souris-optique.jpg"
+   },
+  {
+    "id": 3,
+    "nom": "Souris Optique JEDEL TB220   ",
+    "prix": "2,200 DT",
+    "url": "http://www.mytek.tn/20848-product_category/cle-usb-adata-c906-8-go-noir-tunsie.jpg"
+   },
+  {
+    "id":4,
+    "nom": "Lecteur de Carte USB WD   ",
+    "prix": "4,200 DT",
+    "url": "http://www.mytek.tn/22019-product_category/lecteur-de-carte-usb-wd-tunsie.jpg"
+   },
+  {
+    "id": 5,
+    "nom": "Tapis De Souris",
+    "prix": "2,500 DT",
+    "url": "http://www.mytek.tn/48981-product_category/tapis-de-souris-cliptec-rzy238-bleu.jpg"
+   },
+  {
+    "id": 6,
+    "nom": "Souris Optique JEWAY M1 ",
+    "prix": "2,500  DT",
+   "url": "http://www.mytek.tn/45645-product_category/souris-optique-jeway-m1-usb-20.jpg"
+   }
+]
