@@ -3,112 +3,91 @@
     "id": 1,
     "nom": "Asus Eee PC 1215B",
     "prix": "1200 DT",
-    "description": "La plate-forme AMD Brazos fine et légère avec unité",
+    "description": "L'Eee PC 1215B est un netbook équipé d'un C-50 d'AMD, avec écran de 12,1 pouces. Malgré une importante quantité de mémoire, le disque dur est en retrait, tout comme la puce AMD animant la machine, qui peine à assurer avec Windows 7 Home Premium.",
     "url": "http://img.bfmtv.com/c/1256/708/f12/0f0cdcc5972cfe75e7a69a9173617.jpg"
    },
    {
     "id": 2,
     "nom": "Asus ROGGL553VD I5 ",
     "prix": "2149 DT",
-    "description": "Windows 7 La plate-forme AMD Brazos fine et légère avec unité",
+    "description": "Ecran: 15.6 FULL HD, Processeur: Intel® Core™ i5-7300HQ (2.5GHz Up to 3.5GHz Turbo GHZ, 6 Mo de memoire cache), Système d'exploitation: FreeDos, Mémoire RAM: 12Go DDR4, Disque Dur: 1To, Carte Graphique: NVIDIA® GeForce® GTX 1050(4Go GDDR5 de mémoire",
     "url": "https://www.weable.co.za/media/product/086/asus-rog-gl553vd-i5-7300hq-15-gl553vd-dm049t-915.jpg"
    },
   {
     "id": 3,
     "nom": "Asus ROGGL553VD I7 ",
     "prix": "2399 DT",
-    "description": "Windows 7 La plate-forme AMD Brazos fine et légère avec unité",
+    "description": "Pc portable GL553VD - Ecran: 15.6 FULL HD, Processeur: Intel® Core™ i7 7700HQ (2.80 GHz, up to 3.80 GHz, 6Mo de mémoire Cache,4 cœurs), Système d'exploitation: Windows 10 64 bits, Mémoire: 8Go DDR4, Disque Dur: 1To, Carte Graphique: NVIDIA® GeForce® GTX 1050(4Go GDDR5 de mémoire dédiée) avec  Wifi, Bluetooth, Clavier RGB, Garantie: 2 ans.",
     "url": "https://www.wiki.tn/15610-large_mobi_default/pc-portable-asus-rog-gl553vd-i7-7%C3%A9-g%C3%A9n-8go-1to.jpg"
    },
   {
     "id":4,
     "nom": "MSI GP72 6QF LEOPARD PRO ",
     "prix": "2299 DT",
-    "description": "Windows 7 La plate-forme AMD Brazos fine et légère avec unité",
+    "description": "Windows 10 Famille, Processeur Intel® Core™ i7 de 6ème génération, Carte graphique GeForce® GTX 960M GDDR5 2 Go, Ecran 17,3 Full HD (1920 x 1080), angle de vision panoramique, SSD M2 PCIe Gen3 x4 avec technologie NVMe, Mémoire DDR4 8 Go,Technologie de refroidissement Cooler Boost,Technologies audio Nahimic et Audio Boost, Clavier gaming SteelSeries rétroéclairé,Connexion rapide avec Killer Ethernet E2400, Matrix Display pour connecter deux moniteurs 4K",
     "url": "https://www.msi.com/asset/resize/image/global/product/product_5_20170315115057_58c8ba2143bd0.png62405b38c58fe0f07fcef2367d8a9ba1/600.png"
    },
   {
     "id": 5,
     "nom": "Lenovo IP310-15IKB ",
     "prix": "1579 DT",
-    "description": "Windows 7 La plate-forme AMD Brazos fine et légère avec unité",
+    "description": "Ecran 15.6 FULL HD - Processeur: Intel® Core™ i7-7500U ( 2.7GHz, up to 3.5 GHz, 4Mo de mémoire cache,2cœurs)- Systéme d'exploiration: FreeDos  - Mémoire:8Go DDR4 -Disque dur: 1 To- Carte graphique: NVIDIA® GeForce G920MX (2GB DDR3 de mémoire dédiée) avec Webcam HD,HDMI, VGA, Bluetooth, Wifi, Garantie 1 an.",
     "url": "http://www.enligne.tn/copieenligne/images/stories/virtuemart/product/pc-portable-lenovo-ip310-15ikb-i5-7e-gen-4go-1to-noir.jpg"
    },
   {
     "id": 6,
     "nom": "Dell INSPIRATION 7566",
     "prix": "2629 DT",
-    "description": "Windows 7 La plate-forme AMD Brazos fine et légère avec unité",
+    "description": "Intel Core i7-6700HQ up to 3.5 GHz - 6 Mo cache 16 Go DDR4 Disque dur 1To + 128 Go SSD SATA 15.6 pouce LED IPS  Intel® HD Graphics 530 FreeDos",
     "url": "http://images.icecat.biz/img/gallery_raw/33421883_7563434064.jpeg"
    },
   {
     "id": 7,
     "nom": "HP 15-ay105nk   ",
     "prix": "1559 DT",
-    "description": "Windows 7 La plate-forme AMD Brazos fine et légère avec unité",
+    "description": "Ecran 15.6 HD  rétroéclairage WLED (1 366 x 768)   - Processeur: Intel® Core™ i7-7500U (2,7 GHz, jusqu’à 3,5 GHz,4 Mo de mémoire cache, 2 cœurs)- Systéme d'exploitation : Free Dos - Mémoire: 8 Go SDRAM DDR4 - Disque dur:1To SATA -Carte graphique :  AMD Radeon™ R7 M440 (2 Go de mémoire DDR3 dédiée) - Garantie: 1 an.",
     "url": "https://www.iris.ma/26461-thickbox_default/ordinateur-portable-hp-15-ay105nk-z6j64ea.jpg"
    },
   {
     "id": 8,
     "nom": "LDLC Aurore Ti3-8-S2  ",
     "prix": "1800 DT",
-    "description": "Windows 7 La plate-forme AMD Brazos fine et légère avec unité",
+    "description": "Le PC portable LDLC Aurore Ti3 est un modèle équilibré et polyvalent, adapté pour une utilisation quotidienne. Son écran mat de 15.6 avec dalle IPS et résolution Full HD offre une image de grande qualité, pour un confort visuel supérieur.",
     "url": "https://media.ldlc.com/ld/products/00/04/45/60/LD0004456029_2.jpg"
    },
   {
     "id": 9,
     "nom": "Asus X206HA-FD0077T  ",
     "prix": "1800 DT",
-    "description": "Windows 7 La plate-forme AMD Brazos fine et légère avec unité",
+    "description": "Voyagez léger avec le netbook ASUS EeeBook X206HA-FD0077T ! Avec un écran compact de 11.6 pouces et un poids inférieur à 1 kg, c'est un compagnon mobile idéal. Le EeeBook X206HA offre de bonnes performances générales et une autonomie longue durée.
     "url": "https://image.darty.com/informatique/ordinateur_portable-portable/portable/asus_x206ha-fd0077t_k1702024285174A_114003101.jpg"
    },
   {
     "id": 10,
     "nom": "HP ProBook 430 G4/I3  ",
     "prix": "1299 DT",
-    "description": "Windows 7 La plate-forme AMD Brazos fine et légère avec unité",
+    "description": "Windows 10 Professionnel 64, Intel® Core™ i3-7100U + Intel® HD Graphics 620, 4 Go de mémoire, 256 Go SSD de stockage, Écran HD de 33,8 cm (13,3), garantie 2 ans.",
     "url": "http://www.tunisianet.com.tn/63227-large/pc-portable-hp-probook-430-g4-i3-7e-gen-4-go.jpg"
    },
   {
     "id": 11,
     "nom": "VEGABOOK 10 Quad  ",
     "prix": "349 DT",
-    "description": "Windows 7 La plate-forme AMD Brazos fine et légère avec unité",
+    "description": "Ecran 10.1 TN HD LED (1024 x 600 Pixels), Processeur Intel Atom® Z3735F (1.33 GHz up to 1,83 GHz ,2Mo mémoire cache, Quad-Core), Systéme d'exploitation: Windows 10, Mémoire RAM: 2 Go DDR3, Disque Dur: 32 Go, Carte graphique: Intel HD Graphics, avec USB2.0, HDMI, WebCam 0.3MP - Garantie: 1 an.",
     "url": "http://www.mytek.tn/49527/pc-portable-vegabook-10-quad-core-2go-32-go-gold.jpg"
    },
   {
     "id": 12,
     "nom": "Lenovo YOGA 300  ",
     "prix": "909 DT",
-    "description": "Windows 7 La plate-forme AMD Brazos fine et légère avec unité",
+    "description": "Un PC quand vous en avez besoin, une tablette quand vous le désirez, et bien plus encore. Basculez facilement entre les quatre modes d'utilisation : portable, chevalet, tablette et tente. Le secret : la conception unique et la dalle tactile 11 du Lenovo Yoga 300, qui permettent de faire pivoter l'écran à 360 degrés et de choisir le mode d'utilisation en fonction de ce que vous voulez faire.",
     "url": "http://www.tunisianet.com.tn/69068-large/pc-portable-lenovo-yoga-300-quad-core-4-go.jpg"
    },
   {
     "id": 13,
     "nom": "Asus G553VW-DM066T  ",
     "prix": "3900 DT",
-    "description": "Windows 7 La plate-forme AMD Brazos fine et légère avec unité",
+    "description": "Système d'exploitation: Windows 10 Home, Processeur: Intel® Core™ i7-6700HQ 2.6 GHz (6M Cache, jusqu'à 3.5 GHz), Carte graphique: NVIDIA GeForce GTX960M avec 2Go GDDR5 dédiés, Mémoire vive: 16Go DRAM DDR4 (2 slots - extensibles jusqu'à 16Go), Stockage: 1To 7200TPM 2.5' HDD + 256Go M.2 SSD, Ecran de 15,6, Résolution : Full HD 1920x1080, Garantie: 6 mois.",
     "url": "https://image.darty.com/informatique/ordinateur_portable-portable/portable/asus_g553vw-dm066t_k1611224264436A_162434650.jpg"
-   },
-  {
-    "id": 14,
-    "nom": "HP ProBook 430 G4/I3  ",
-    "prix": "1299 DT",
-    "description": "Windows 7 La plate-forme AMD Brazos fine et légère avec unité",
-    "url": "https://boulanger.scene7.com/is/image/Boulanger/bfr_overlay?layer=comp&$t1=&$product_id=Boulanger/4712900770513_h_f_l_0"
-   },
-  {
-    "id": 15,
-    "nom": "Asus R702UA-BX085T",
-    "prix": "1590 DT",
-    "description": "Windows 7 La plate-forme AMD Brazos fine et légère avec unité",
-    "url": "http://www.mytek.tn/49527/pc-portable-vegabook-10-quad-core-2go-32-go-gold.jpg"
-   },
-  {
-    "id": 16,
-    "nom": "HP 15-bs559sa 15.6  ",
-    "prix": "1050 DT",
-    "description": "Windows 7 La plate-forme AMD Brazos fine et légère avec unité",
-    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkKD6In1tgaFxp80mywur7kFs3YPOJoRLWTraZpNbmIltDHzca"
    }
 ]
